@@ -1,9 +1,8 @@
 
 # Messaging app homepage
 
-It is the application of [react-native-whatsapp-ios] (https://github.com/ozcanzaferayan/react-native-whatsapp-ios) lesson prepared by [ozcanzaferayan] (https://github.com/ozcanzaferayan).
+It is the application of [ **react-native-whatsapp-ios** ] (https://github.com/ozcanzaferayan/react-native-whatsapp-ios) lesson prepared by [ **ozcanzaferayan** ] (https://github.com/ozcanzaferayan).
 
-[ **Shopping List** ](https://github.com/muratti32/shopping-list)
 |   |
 |---|
 | <img src="https://github.com/muratti32/message/blob/master/img/message.gif" width="400" />  | 
